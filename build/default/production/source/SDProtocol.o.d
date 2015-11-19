@@ -1,0 +1,19 @@
+build/default/production/source/SDProtocol.o:  \
+source/SDProtocol.c  \
+ source/Common.h  \
+source/Settings.h  \
+source/PeripheralSelect.h  \
+ source/Pins.h  \
+source/Debug.h  \
+source/LED.h  \
+source/SDProtocol.h  \
+ source/SDPackets.h  \
+source/SDCommands.h  \
+source/Camera.h  \
+ source/I2CInterfaces.h  \
+source/WiRaComm.h  \
+source/VMeas.h  \
+source/Motors.h  \
+ source/FlightControl.h  \
+source/Gyro.h  \
+source/Accel.h 

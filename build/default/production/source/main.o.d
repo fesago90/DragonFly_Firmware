@@ -1,0 +1,21 @@
+build/default/production/source/main.o:  \
+source/main.c  \
+source/ConfigBits.h  \
+ source/Pins.h  \
+source/Common.h  \
+source/Settings.h  \
+ source/PeripheralSelect.h  \
+source/Debug.h  \
+source/LED.h  \
+source/RCComm.h  \
+ source/VMeas.h  \
+source/Motors.h  \
+source/FlightControl.h  \
+source/Gyro.h  \
+ source/Accel.h  \
+source/SDProtocol.h  \
+source/SDPackets.h  \
+ source/SDCommands.h  \
+source/Camera.h  \
+source/I2CInterfaces.h  \
+ source/WiRaComm.h 
